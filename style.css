@@ -10,6 +10,10 @@ body::before{
     max-width: 1900px; important;
     background-image: url('umjunsick.jpg');
 }
+header{
+    height:300px;
+    max-width:1900px;
+}
 p.ping{
     float: right;
     position: relative;
