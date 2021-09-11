@@ -12,7 +12,7 @@ body::before{
 }
 header{
     height:300px;
-    max-width:1900px;
+    max-width:1900px; 
 }
 p.ping{
     float: right;
