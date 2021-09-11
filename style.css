@@ -10,7 +10,7 @@ body::before{
     max-width: 1900px; important;
     background-image: url('umjunsick.jpg');
 }
-header{
+#header{
     height:300px;
     max-width:1900px; 
 }
