@@ -1,4 +1,4 @@
-body::before{
+body{
     top: 0;
     left: 0;
     right: 0;
@@ -9,6 +9,7 @@ body::before{
     height:10%;
     max-width: 1900px; important;
     background-image: url('umjunsick.jpg');
+    background-attachment: fixed;
 }
 #header{
     height:300px;
