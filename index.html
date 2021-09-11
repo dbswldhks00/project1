@@ -2,6 +2,12 @@
 <html>
     <head>
         <style>
+            *, ::after, ::before {
+                box-sizing: border-box;
+            }
+            div{
+                display: block;
+            }
             body {
                 margin: 0;
                 font-family: fantasy;
@@ -11,6 +17,9 @@
                 color: #212529;
                 text-align: left;
                 background-color: #fff;
+            }
+            .character{
+                background-color:white;
             }
             .character-choice{
                 padding-top: 10px;
@@ -37,6 +46,8 @@
     </head>
 </head>
 <body>
-    <div class=" character-choice character-color character-header">캐릭터 목록</div>
+    <div class="character">
+        <div class=" character-choice character-color character-header">캐릭터 목록</div>
+    </div>
 </body>
 </html>
