@@ -16,6 +16,7 @@ body {
 }
 body {
     background-image:url('123.png');
+    background-repeat: no-repeat;
     margin: 0;
     font-family: fantasy;
     font-size: 1rem;
