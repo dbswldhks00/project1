@@ -87,3 +87,11 @@ li .name {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+li {
+    position: relative;
+    display: inline-block;
+    margin: 4px;
+    width: 48px;
+    text-align: center;
+    vertical-align: top;
+}
