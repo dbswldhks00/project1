@@ -87,7 +87,7 @@ li .name {
     overflow: hidden;
     text-overflow: ellipsis;
 }
-li {
+.character-11 li {
     position: relative;
     display: inline-block;
     margin: 4px;
