@@ -90,8 +90,6 @@ li .name {
 .character-11 li {
     position: relative;
     display: inline-block;
-    margin: 4px;
-    width: 48px;
     text-align: center;
     vertical-align: top;
 }
