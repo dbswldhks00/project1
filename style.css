@@ -75,6 +75,9 @@ color : white;
 a:visited {
 color : white;
 }
+li{
+    text-align: center;
+}
 li .name {
     display: block;
     margin-top: 4px;
