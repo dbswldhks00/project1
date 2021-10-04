@@ -97,3 +97,10 @@ li .name {
     text-align: center;
     vertical-align: top;
 }
+.head-f{
+    width: 80px;
+    height: 80px;
+    border-radius: 16px;
+    margin-bottom: 6px;
+    background: url(https://bserdata.akamaized.net/character_mini_images/033_nicky.png) center center / cover no-repeat rgb(235, 156, 0);
+}
