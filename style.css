@@ -111,5 +111,6 @@ li .name {
     height: 32px;
     font-size: 2.4rem;
     line-height: 3.2rem;
-    font-weight: bold;
+    background-color:black;
+    color:white;
 }
